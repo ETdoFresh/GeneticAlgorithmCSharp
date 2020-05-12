@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgorithmConsoleExample", "GeneticAlgorithmConsoleExample\GeneticAlgorithmConsoleExample.csproj", "{AB224519-96B5-4DE8-AB1E-0A37500FCF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgorithmLibrary", "GeneticAlgorithmLibrary\GeneticAlgorithmLibrary.csproj", "{E7E19B6C-3734-4461-A4EA-770E56E45194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB224519-96B5-4DE8-AB1E-0A37500FCF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB224519-96B5-4DE8-AB1E-0A37500FCF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB224519-96B5-4DE8-AB1E-0A37500FCF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB224519-96B5-4DE8-AB1E-0A37500FCF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E19B6C-3734-4461-A4EA-770E56E45194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E19B6C-3734-4461-A4EA-770E56E45194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E19B6C-3734-4461-A4EA-770E56E45194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E19B6C-3734-4461-A4EA-770E56E45194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
